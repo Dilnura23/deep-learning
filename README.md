@@ -16,7 +16,7 @@ This repository contains a collection of programming assignments for the **CS371
 ## 📝 Assignment Details
 
 ### 1. Introduction to Deep Learning (MLP)
-**Filename:** `01_Intro_to_DL_MLP.ipynb`
+**Filename:** `multi-layer-perceptron.ipynb`
 
 An implementation of a Multi-Layer Perceptron (MLP) using only **NumPy**. This assignment focuses on understanding the mathematical foundations of deep learning.
 
@@ -27,7 +27,7 @@ An implementation of a Multi-Layer Perceptron (MLP) using only **NumPy**. This a
     * Training on a synthetic binary classification dataset.
 
 ### 2. Image Classification using CNNs
-**Filename:** `02_Image_Classification_CNNs.ipynb`
+**Filename:** `CNN_image_classification.ipynb`
 
 A comprehensive exploration of Convolutional Neural Networks (CNNs) for image classification on the **CIFAR-10** dataset.
 
@@ -38,7 +38,7 @@ A comprehensive exploration of Convolutional Neural Networks (CNNs) for image cl
     * **Result:** Achieved ~88% accuracy with ResNet variants.
 
 ### 3. Semantic Segmentation using FCN
-**Filename:** `03_Semantic_Segmentation_FCN.ipynb`
+**Filename:** `image_segmentation_FCN.ipynb`
 
 Implementation of Fully Convolutional Networks (FCN) for semantic image segmentation on the **PASCAL VOC 2011** dataset (augmented with SBD).
 
@@ -49,7 +49,7 @@ Implementation of Fully Convolutional Networks (FCN) for semantic image segmenta
     * Evaluating performance using the Intersection over Union (IoU) metric.
 
 ### 4. Neural Machine Translation (NMT)
-**Filename:** `04_Neural_Machine_Translation.ipynb`
+**Filename:** `Neural_Machine_Translation.ipynb`
 
 Development of a Sequence-to-Sequence (Seq2Seq) model for language translation (e.g., English to French).
 
